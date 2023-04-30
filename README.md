@@ -107,13 +107,11 @@ So as mentioned earlier I was constantly getting No Module Error inspite of succ
     With the help of Flask connect webpage and the backend
 ## Screenshots
 
-<img alt="coding" width="400" src="https://drive.google.com/file/d/1olNFICgGZP7LTMWFEgYTMUjzAGTA_sPW/view?usp=sharing">
+![image](https://user-images.githubusercontent.com/105912861/235350719-9dd6dca1-175e-4388-88f8-79c52f67469d.png)
 
-<img alt="coding" width="400" src="https://drive.google.com/file/d/14z0S7JIsR7klN8YOdeoQM71Zjm1XmgcU/view?usp=sharing">
+![image](https://user-images.githubusercontent.com/105912861/235350682-4dc3d6b4-34e3-48ec-8ec2-3388dfd08210.png)
 
-<img alt="coding" width="400" src="https://drive.google.com/file/d/19yrIeZCv4Ap2hdB_q7jw6XBTRzDxar94/view?usp=sharing">
-
-<img alt="coding" width="400" src="https://drive.google.com/file/d/1msSLL-_iBPRjBap_LZph6pED9y3E9uf3/view?usp=sharing">
+![image](https://user-images.githubusercontent.com/105912861/235350763-013776b3-4b2a-4417-b243-cfbf560f422b.png)
 
 ![image](https://user-images.githubusercontent.com/105912861/235350572-05eb5290-f3b3-4a63-a81d-6e0c67c73440.png)
 
