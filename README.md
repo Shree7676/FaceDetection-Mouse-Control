@@ -107,14 +107,15 @@ So as mentioned earlier I was constantly getting No Module Error inspite of succ
     With the help of Flask connect webpage and the backend
 ## Screenshots
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1olNFICgGZP7LTMWFEgYTMUjzAGTA_sPW/view?usp=sharing">
+<img alt="coding" width="400" src="https://drive.google.com/file/d/1olNFICgGZP7LTMWFEgYTMUjzAGTA_sPW/view?usp=sharing">
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/14z0S7JIsR7klN8YOdeoQM71Zjm1XmgcU/view?usp=sharing">
+<img alt="coding" width="400" src="https://drive.google.com/file/d/14z0S7JIsR7klN8YOdeoQM71Zjm1XmgcU/view?usp=sharing">
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/19yrIeZCv4Ap2hdB_q7jw6XBTRzDxar94/view?usp=sharing">
+<img alt="coding" width="400" src="https://drive.google.com/file/d/19yrIeZCv4Ap2hdB_q7jw6XBTRzDxar94/view?usp=sharing">
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1msSLL-_iBPRjBap_LZph6pED9y3E9uf3/view?usp=sharing">
+<img alt="coding" width="400" src="https://drive.google.com/file/d/1msSLL-_iBPRjBap_LZph6pED9y3E9uf3/view?usp=sharing">
 
+![image](https://user-images.githubusercontent.com/105912861/235350572-05eb5290-f3b3-4a63-a81d-6e0c67c73440.png)
 
 
 
