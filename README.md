@@ -7,8 +7,14 @@ The proposed project aims to develop a hands-free computer interaction system, s
 ## Working Actions
 
 Open wide eyes + Mouth Open ==> Left Click
+
 minimize eye + Mouth open ==> Right Click
+
 move your eye sight to move the mouse
+
+Video Explanation
+
+https://youtu.be/XRjP92ylEOo
 
 
 
